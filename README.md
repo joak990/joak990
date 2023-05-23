@@ -1,5 +1,4 @@
 
-<iframe src="https://giphy.com/embed/PkD8o1I8w55aE" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ascii-en-imgenes-PkD8o1I8w55aE">via GIPHY</a></p>
 
 ### 👋 HOLA MI NOMBRE ES JOAQUIN HAIDAR 
 
