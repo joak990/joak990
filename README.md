@@ -21,8 +21,8 @@ de trabajo.
 
 ### ¿QUÉ TEGNOLOGÍAS USO?
 
-◉ ![JavaScript](https://example.com/path/to/javascript-logo.png) 
-◉ React.js ![React.js](https://example.com/path/to/react-logo.png) ![Node.js](https://example.com/path/to/node-logo.png) ![Express.js](https://example.com/path/to/express-logo.png)
+◉ Javascript 
+◉ React.js 
 ◉ Node.js
 ◉ Express.js
 ◉ PostgreSQL
