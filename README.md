@@ -1,10 +1,11 @@
 
+<iframe src="https://giphy.com/embed/PkD8o1I8w55aE" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ascii-en-imgenes-PkD8o1I8w55aE">via GIPHY</a></p>
 ### 👋 HOLA MI NOMBRE ES JOAQUIN HAIDAR 
 
 ### ❓ ¿QUIÉN SOY?
 
 soy un programador full stack con conocimientos en Front end y Backend.
-dede que soy pequeño me gusta la tegnologia mi primer lenguaje fue javascript , una 
+dede que soy pequeño me gusta la tecnologia mi primer lenguaje fue javascript , una 
 experiencia que me desperto una pasión por el mundo del desarollo.
 
 ### 🚀¿QUÉ HAGO?
