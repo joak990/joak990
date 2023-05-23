@@ -35,5 +35,5 @@ de trabajo.
 entre otros conocimientos Canva para el diseño del material
 
 ### NO DUDES EN CONTACTARME!
-[LinkedIn](https://www.linkedin.com/tu_perfil)
+[LinkedIn](https://www.linkedin.com/in/joaquin-haidar/)
 Correo:joakhaidar@gmail.com
